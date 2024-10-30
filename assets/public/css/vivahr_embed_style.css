@@ -1,0 +1,1120 @@
+@charset "utf-8";
+
+#content {
+	background-color:#FFFFFF !important;
+	padding: 25px;
+}
+
+#profileEmbed {
+	margin: 0;
+	font-family: 'robotolight', Arial;
+	color: #414042;
+	font-size: 20px;
+	line-height: 27px;
+	max-width:100%;
+}
+
+#profileEmbed a:link {
+	color: inherit;
+	text-decoration: none;
+}
+
+#profileEmbed a:visited {
+	color: inherit;
+	text-decoration: none;
+}
+
+#profileEmbed .wrapper {
+	max-width: 100%;
+	margin: 0 auto;
+}
+
+
+#profileEmbed h2 {
+    font-family: 'robotolight', Arial;
+    margin: 0 0 20px 0;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 19px;
+    color: #000000;
+}
+
+#profileEmbed .viva_embed_listing .text h2 {
+	font-size: 24px;
+	line-height: 30px;
+}
+
+#profileEmbed h3 {
+	font-family: 'robotobold', Arial;
+	font-weight: normal;
+	margin: 20px 0 0 0;
+	font-size: 20px;
+}
+
+#profileEmbed h4 {
+	font-family: 'robotolight', Arial;
+	font-weight: normal;
+	margin: 0;
+	font-size: 16px;
+}
+
+#profileEmbed .divider {
+	margin: 15px 0;
+	width: 100%;
+	height: 1px;
+	background-color: #ccc;
+}
+
+#profileEmbed .header {
+	padding: 10px 20px;
+	border-bottom: 1px solid #ccc;
+	margin: 0 0 30px 0;
+}
+
+#profileEmbed .company-logo {
+	float: left;
+	width: 170px;
+	margin: 15px 0 0 0;
+}
+
+#profileEmbed .company-logo img {
+	width: 100%;
+	height: auto;
+}
+
+#profileEmbed .btn {
+	padding: 10px 25px;
+	color: #58595b;
+	text-transform: uppercase;
+	float: right;
+	background-color: #fff;
+	border-radius: 4px;
+	font-size: 13px;
+	font-family: 'robotolight', Arial;
+	letter-spacing: 1px;
+	border: 1px solid #ccc;
+	margin: 10px 5px;
+}
+
+#profileEmbed .btn:hover {
+	background-color: #ccc;
+	color: #fff;
+}
+
+#profileEmbed .btn.active {
+	padding: 10px 25px;
+	color: #fff;
+	text-transform: uppercase;
+	float: right;
+	background-color: #939598;
+	border-radius: 4px;
+	font-size: 13px;
+	font-family: 'robotolight', Arial;
+	letter-spacing: 1px;
+	margin: 10px 5px;
+}
+
+#profileEmbed .btn.active:hover {
+	background-color: #ccc;
+	color: #fff;
+}
+
+#profileEmbed .social {
+	float: right;
+	margin: 18px 0 10px 10px;
+}
+
+#profileEmbed .main-img {
+	width: 63%;
+	height: 500px;
+	background-size: cover;
+	float: left;
+	background-position: center;
+}
+
+#profileEmbed .caption {
+	background: rgba(0, 0, 0, 0.5);
+	color: #fff;
+	text-transform: uppercase;
+	font-family: 'robotolight', Arial;
+}
+
+#profileEmbed .video .caption {
+	padding: 15px;
+	position: relative;
+	text-align: left;
+	top: 457px;
+	font-size: 30px;
+	line-height: 35px;
+}
+
+#profileEmbed .main-img .caption {
+	padding: 20px;
+	position: relative;
+	top: 433px;
+	font-size: 43px;
+}
+
+#profileEmbed .sub-img1,
+#profileEmbed .sub-img2 {
+	float: right;
+	height: 245px;
+	width: 36%;
+	background-position: center;
+}
+
+#profileEmbed .sub-img1 {
+	background-size: cover;
+	margin: 0 0 10px 0;
+}
+
+#profileEmbed .sub-img2 {
+	background-size: cover;
+}
+
+#profileEmbed .section {
+	padding: 25px 0;
+	margin: 25px 0;
+}
+
+#profileEmbed .grey {
+	background-color: transparent;
+}
+
+#profileEmbed .grey h2 {
+	padding: 0 10px;
+}
+
+#profileEmbed .grey p {
+	padding: 0 10px;
+}
+
+#profileEmbed .col-3 {
+	width: 32.5%;
+	float: left;
+	margin: 0 1.2%;
+	height: 250px;
+	background-size: cover;
+	background-position: center;
+}
+
+#profileEmbed .col-3.left {
+	margin: 0;
+}
+
+#profileEmbed .col-3.right {
+	margin: 0;
+	float: right;
+}
+
+#profileEmbed .col-3 .caption {
+	position: relative;
+	padding: 15px;
+	top: 194px;
+	text-align: center;
+}
+
+#profileEmbed .video {
+	height: 650px;
+	background-size: cover;
+	margin: 15px 0;
+	background-position: center;
+}
+
+#profileEmbed .video .overlay {
+	background: rgba(0, 0, 0, 0.5);
+	height: 650px;
+}
+
+#profileEmbed .video .play {
+	background-image: url(../../images/play_17.png);
+	background-size: cover;
+	position: relative;
+	width: 128px;
+	height: 128px;
+	top: 260px;
+	margin: 0 auto;
+}
+
+#profileEmbed .sub-video .play {
+	background-image: url(../../images/play_17.png);
+	background-size: cover;
+	position: relative;
+	width: 80px;
+	height: 80px;
+	top: 80px;
+	margin: 0 auto;
+}
+
+#profileEmbed .quote {
+	padding: 20px;
+	margin: 50px 0;
+	font-size: 20px;
+	line-height: 27px;
+	font-family: 'robotolight', Arial;
+	border-top: 1px solid #ccc;
+	border-bottom: 1px solid #ccc;
+}
+
+#profileEmbed .ceo {
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+}
+
+#profileEmbed .ceo .image {
+	-webkit-flex: 1;
+	-ms-flex: 1;
+	flex: 1;
+	min-width: 200px;
+	height: 200px;
+	background-size: cover;
+}
+
+#profileEmbed .ceo .text {
+	-webkit-flex: 8;
+	-ms-flex: 8;
+	flex: 8;
+	margin: 15px 0;
+	padding-left: 15px;
+}
+
+/*#profileEmbed .ceo .image { float: left; width: 200px; height: 200px; background-size: cover; }
+#profileEmbed .ceo .text { float: right; width: 79%; margin: 15px 0; }
+#profileEmbed .col-3.testimonial { height: auto; }*/
+#profileEmbed .testimonial {
+	text-align: center;
+}
+
+#profileEmbed .testimonial .image {
+	width: 200px;
+	margin: 0 auto 20px auto;
+	height: 200px;
+	background-size: cover;
+	border-radius: 200px;
+}
+
+#profileEmbed .testimonial .text {
+	font-size: 15px;
+	line-height: 20px;
+	padding: 0px 20px;
+	font-style: italic;
+}
+
+#profileEmbed .testimonial .text h3 {
+	font-style: normal;
+}
+
+#profileEmbed .section.grey.testimonail {
+	margin: 50px 0 0 0;
+}
+
+#profileEmbed .footer {
+	color: #626363;
+	background-color: transparent;
+	padding: 40px 20px;
+	font-size: 16px;
+	font-family: 'robotolight', Arial;
+	position: relative;
+}
+
+#profileEmbed .footer.center {
+	text-align: center;
+}
+
+#profileEmbed .footer.two .ft-partner {
+	width:50%;
+	float:left;
+	text-align: left;
+}
+
+#profileEmbed .footer.two .ft-viva {
+	text-align: right;
+	float:right;
+	width:50%;
+}
+
+#profileEmbed .footer img {
+	margin: 10px 0 -10px 5px;
+	max-width: 150px;
+}
+
+#profileEmbed .viva_embed_listing {
+	margin: 0;
+	padding: 20px 0;
+	border-bottom: 1px solid #DFE1E1;
+}
+
+#profileEmbed .viva_embed_listing .text {
+	float: left;
+	width: 71%;
+	position: relative;
+	text-align: left;
+}
+
+#profileEmbed .viva_embed_listing h2 {
+	margin: 0;
+}
+
+#profileEmbed .viva_embed_listing h3 {
+	margin: 5px 0 0 0;
+	font-size: 15px;
+	text-transform: uppercase;
+	line-height: 29px;
+	letter-spacing: 1px;
+}
+
+#profileEmbed .viva_embed_listing .apply {
+	float: right;
+	padding: 5px 0 5px 70px; /*border-left: 1px solid #ccc;*/
+}
+
+#profileEmbed .apply .btn {
+	padding: 8px;
+	width: 133px;
+	color: #fff;
+	background-color: #2f414a;
+	border: none;
+	text-align: center;
+}
+
+#profileEmbed .apply .btn:hover {
+	background-color: #475c67;
+	color: #fff;
+}
+
+#profileEmbed .apply .applied {
+	background-color: #547957;
+}
+
+#profileEmbed .apply .applied:hover {
+	background-color: #547957;
+	cursor: text;
+}
+
+#profileEmbed .job-details h2 {
+	margin: 0;
+}
+
+#profileEmbed .job-details h3 {
+	margin: 5px 0 30px 0;
+	font-size: 15px;
+	line-height: 29px;
+	letter-spacing: 1px;
+}
+
+#profileEmbed .details h3 {
+	margin: 0;
+}
+
+#profileEmbed .job-details .text {
+	float: left;
+	width: 70%;
+	font-size: 16px;
+	margin: 0 0 50px 0;
+}
+
+#profileEmbed .job-details .details {
+	float: right;
+	padding: 20px;
+	border: 1px solid #ccc;
+	border-radius: 4px;
+	font-size: 14px;
+	width: 18%;
+	min-width: 240px;
+}
+
+#profileEmbed .details .btn {
+	padding: 8px;
+	color: #fff;
+	background-color: #2f414a;
+	border: none;
+	float: none;
+	width: 65%;
+	margin: 20px auto 0 auto;
+	text-align: center;
+}
+
+#profileEmbed .btn-alt .btn {
+	display: inline-block;
+	padding: 8px 25px;
+	color: #fff;
+	background-color: #2f414a;
+	border: none;
+	float: left;
+	margin: 20px auto 0 auto;
+	text-align: center;
+}
+
+#profileEmbed .btn-alt .btn:hover {
+	background-color: #475c67;
+	color: #fff;
+}
+
+#profileEmbed .btn-alt .alt-btn {
+	display: inline-block;
+	padding: 7px 25px;
+	color: #58595b;
+	background-color: #fff;
+	border: 1px solid #ccc;
+	float: left;
+	margin: 20px 10px 0 10px;
+	text-align: center;
+	border-radius: 4px;
+}
+
+#profileEmbed .btn-alt .alt-btn:hover {
+	background-color: #ccc;
+	color: #fff;
+}
+
+#profileEmbed .btn-alt .applied {
+	background-color: #547957;
+}
+
+#profileEmbed .btn-alt .applied:hover {
+	background-color: #547957;
+	cursor: text;
+}
+
+#profileEmbed .details .btn:hover {
+	background-color: #475c67;
+	color: #fff;
+}
+
+#profileEmbed .details .applied {
+	background-color: #547957;
+}
+
+#profileEmbed .details .applied:hover {
+	background-color: #547957;
+	cursor: text;
+}
+
+#profileEmbed .application {
+	text-align: center;
+}
+
+#profileEmbed .application h2 {
+	margin: 0;
+}
+
+#profileEmbed .application h3 {
+	margin: 5px 0 0px 0;
+	font-size: 15px;
+	line-height: 29px;
+	letter-spacing: 1px;
+}
+
+#profileEmbed .application-wrapper {
+	width: 677px;
+	margin: 0 auto;
+	font-size: 14px;
+	color: #414042;
+}
+
+#profileEmbed .application-wrapper input[type=text],
+#profileEmbed .application-wrapper input[type=email],
+#profileEmbed .application-wrapper input[type=tel],
+#profileEmbed .application-wrapper input[type=file] {
+/*	width: 94%;
+	padding: 15px;
+	font-size: 14px;
+	margin: 5px 0;
+	border-radius: 2px;
+	border: 1px solid #ccc;
+	background-color: #FFF;
+*/
+	width: 100%;
+    height: 37px;
+   /* padding: 15px;*/
+    font-size: 14px;
+    margin: 5px 0;
+    background-color: #FFF;
+    mix-blend-mode: normal;
+    opacity: 0.5;
+    border: 1px solid #7A8DAE;
+    border-radius: 5px;
+}
+
+#profileEmbed .application-wrapper textarea {
+	width: 94%;
+	padding: 15px;
+	font-size: 14px;
+	margin: 5px 0;
+	border-radius: 2px;
+	border: 1px solid #ccc;
+	font-family: 'robotoregular', Arial;
+	height: 130px;
+}
+
+#profileEmbed .application-wrapper input[type=button],
+#profileEmbed .application-wrapper input[type=submit] {
+	width: 400px;
+    height: 44px;
+    background-color: #2f414a;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    justify-content: center;
+    align-content: center;
+    opacity: 1;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+#profileEmbed .application-wrapper input[type=button]:hover,
+#profileEmbed .application-wrapper input[type=submit]:hover {
+	background-color: #475c67;
+}
+
+#profileEmbed .application-wrapper h3 {
+	text-transform: uppercase;
+	font-size: 14px;
+}
+
+/* ALERTS */
+#profileEmbed .alert {
+	padding: 15px;
+	font-size: 17px;
+	margin-top: 15px;
+	margin-bottom: 20px;
+	border: 1px solid transparent;
+	border-radius: 4px;
+	text-align: center;
+}
+
+#profileEmbed .alert-success {
+	color: #3c763d;
+	background-color: #dff0d8;
+	border-color: #d6e9c6;
+}
+
+#profileEmbed .alert-danger {
+	color: #a94442;
+	background-color: #f2dede;
+	border-color: #ebccd1;
+}
+
+#profileEmbed .alert-info {
+	color: #31708f;
+	background-color: #d9edf7;
+	border-color: #bce8f1;
+}
+
+#profileEmbed .alert-warning {
+	color: #8a6d3b;
+	background-color: #fcf8e3;
+	border-color: #faebcc;
+}
+
+/* ALERTS */
+#profileEmbed .form-error {
+	border: 1px solid red !important;
+	background-color: rgba(255, 198, 159, 0.24) !important;
+}
+
+#profileEmbed .no-jobs-image {
+	width: 90%;
+	height: 320px;
+	margin: 0 auto;
+	background-image: url('../../images/nojobs-desktop.png');
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+
+#profileEmbed .breadcrumbs {
+	font-size: 14px;
+	margin-bottom: 20px;
+	margin-top: 0px;
+}
+
+#profileEmbed .breadcrumbs a {
+	color: #999;
+	position: relative;
+	top: -6px;
+}
+
+#profileEmbed .breadcrumbs .home a {
+	top: 0;
+}
+
+#profileEmbed .breadcrumbs .page {
+	float: left;
+	margin-left: 10px;
+	margin-top: 3px;
+}
+
+#profileEmbed .breadcrumbs .end {
+	margin-top: -3px;
+}
+
+#profileEmbed .breadcrumbs .home {
+	float: left;
+	font-size: 25px;
+}
+
+#profileEmbed .socialshare {
+	text-align: center;
+	margin: 15px 0 0 0;
+	padding: 10px 0 0 0;
+	border-top: 1px solid #ccc;
+}
+
+#profileEmbed .socialshare .fa {
+	margin: 0 2px;
+}
+
+.embed-responsive .embed-responsive-item, .embed-responsive embed, .embed-responsive iframe, .embed-responsive object, .embed-responsive video  {
+	position: relative;
+}
+
+@media only screen and (max-width:1300px) {
+
+	/*#profileEmbed .wrapper { width: 100%; }*/
+
+	/*#profileEmbed .ceo .text { margin: 0; width: 71%; }*/
+	#profileEmbed .col-3 .caption {
+		top: 167px;
+	}
+
+	#profileEmbed .job-details .details {
+		width: 22%;
+	}
+
+	/*#profileEmbed .viva_embed_listing .text { width: 71%; }*/
+}
+
+@media only screen and (max-width:1000px) {
+	#profileEmbed .job-details .details {
+		width: 25%;
+	}
+
+	#profileEmbed .job-details .text {
+		width: 64%;
+	}
+
+	#profileEmbed .viva_embed_listing .text {
+		width: 65%;
+	}
+
+}
+
+@media only screen and (max-width:900px) {
+	#profileEmbed .viva_embed_listing .apply {
+		padding: 5px 0 5px 20px;
+	}
+
+	#profileEmbed .job-details .details {
+		width: 29%;
+	}
+
+	#profileEmbed .job-details .text {
+		width: 59%;
+	}
+
+}
+
+@media only screen and (max-width:800px) {
+
+	/*#profileEmbed .ceo .text { margin: 0; width: 66%; }*/
+	#profileEmbed .viva_embed_listing h2 {
+		font-size: 25px;
+		line-height: 25px;
+	}
+
+	#profileEmbed .viva_embed_listing {
+		margin: 0 0 30px 0;
+	}
+
+	#profileEmbed .job-details .details {
+		width: 93%;
+		margin: 20px 0;
+	}
+
+	#profileEmbed .job-details .text {
+		width: 100%;
+		margin: 0;
+	}
+
+	#profileEmbed .application-wrapper input[type=text],
+	#profileEmbed .application-wrapper input[type=email],
+	#profileEmbed .application-wrapper input[type=tel] {
+		width: 95%;
+	}
+
+	#profileEmbed .application-wrapper input[type=button] {
+		margin: 20px 34%;
+	}
+
+	#profileEmbed .footer.two .ft-partner {
+		width:100%;
+		float:none;
+		text-align: center;
+	}
+
+	#profileEmbed .footer.two .ft-viva {
+		width:100%;
+		float:none;
+		text-align: center;
+		margin-top:50px;
+	}
+
+}
+
+@media only screen and (max-width:700px) {
+	#profileEmbed .main-img {
+		width: 100%;
+		height: 350px;
+		margin: 0 0 10px 0;
+	}
+
+	#profileEmbed .main-img .caption {
+		top: 283px;
+	}
+
+	#profileEmbed .sub-img1,
+	#profileEmbed .sub-img2 {
+		height: 350px;
+		width: 100%;
+	}
+
+	#profileEmbed .col-3 {
+		width: 100%;
+		margin: 10px 0;
+	}
+
+	#profileEmbed .video {
+		height: 350px;
+	}
+
+	#profileEmbed .video .overlay {
+		height: 350px;
+	}
+
+	#profileEmbed .video .play {
+		top: 100px;
+	}
+
+	/*#profileEmbed .ceo .image { float: none; margin: 10px 0; }
+	#profileEmbed .ceo .text { width: 100%; margin: 10px 0; }*/
+	#profileEmbed .viva_embed_listing h3 {
+		font-size: 14px;
+		line-height: 24px;
+	}
+
+	#profileEmbed .video .caption {
+		top: 157px;
+	}
+
+}
+
+@media only screen and (max-width:650px) {
+	#profileEmbed .company-logo {
+		float: none;
+		width: 30%;
+		margin: 0 auto 10px auto;
+	}
+
+	#profileEmbed .btn {
+		float: left;
+		padding: 5px 25px;
+		font-size: 12px;
+	}
+
+	#profileEmbed .btn.active {
+		float: left;
+		padding: 5px 25px;
+		font-size: 12px;
+	}
+
+	#profileEmbed .header {
+		padding: 10px 20px;
+	}
+
+	#profileEmbed {
+		font-size: 16px;
+		line-height: 23px;
+	}
+
+	#profileEmbed .viva_embed_listing {
+		padding: 5px 0;
+	}
+
+	#profileEmbed .viva_embed_listing .text {
+		width: 100%;
+	}
+
+	#profileEmbed .viva_embed_listing .apply {
+		padding: 10px 0;
+		float: left;
+		border-left: none;
+	}
+
+	#profileEmbed .job-details .details {
+		width: 89%
+	}
+
+	#profileEmbed .application-wrapper {
+		width: 90%;
+	}
+
+	#profileEmbed .application-wrapper input[type=text],
+	#profileEmbed .application-wrapper input[type=email],
+	#profileEmbed .application-wrapper input[type=tel] {
+		width: 94%;
+	}
+
+	#profileEmbed .no-jobs-image {
+		width: 90%;
+		height: 320px;
+		margin: 0 auto;
+		background-image: url('../../images/nojobs-mobile.png');
+		background-repeat: no-repeat;
+		background-size: 100%;
+	}
+
+}
+
+@media only screen and (max-width:600px) {
+	#profileEmbed .ceo {
+		flex-direction: column;
+	}
+
+	#profileEmbed .ceo .image {
+		background-size: auto;
+		background-repeat: no-repeat;
+	}
+
+	#profileEmbed .ceo .text {
+		padding-left: 0;
+	}
+
+}
+
+@media only screen and (max-width:400px) {
+	#profileEmbed .btn {
+		float: left;
+		padding: 5px 15px;
+		font-size: 12px;
+	}
+
+	#profileEmbed .btn.active {
+		float: left;
+		padding: 5px 15px;
+		font-size: 12px;
+	}
+
+	#profileEmbed .main-img .caption {
+		font-size: 30px;
+		top: 286px;
+	}
+
+	#profileEmbed .quote {
+		font-size: 20px;
+		line-height: 27px;
+	}
+
+	#profileEmbed .company-logo {
+		width: 40%;
+	}
+
+	#profileEmbed .application h2 {
+		font-size: 30px;
+		line-height: 30px;
+	}
+
+	#profileEmbed .application h3 {
+		font-size: 14px;
+		line-height: 18px;
+	}
+
+	#profileEmbed .breadcrumbs {
+		font-size: 11px;
+	}
+
+	#profileEmbed .breadcrumbs img {
+		height: 13px;
+		width: auto;
+	}
+
+	#profileEmbed .breadcrumbs .page {
+		margin-left: 5px;
+	}
+
+	#profileEmbed .breadcrumbs a {
+		top: -2px;
+		margin-right: -4px;
+	}
+
+	#profileEmbed .application-wrapper textarea {
+		width: 90%;
+	}
+
+}
+
+@media only screen and (max-width:360px) {
+	#profileEmbed .social {
+		display: none;
+	}
+
+	#profileEmbed .main-img {
+		height: 250px;
+	}
+
+	#profileEmbed .main-img .caption {
+		top: 186px;
+	}
+
+	#profileEmbed .sub-img1,
+	#profileEmbed .sub-img2 {
+		height: 250px;
+	}
+
+	#profileEmbed .col-3 {
+		height: 150px;
+	}
+
+	#profileEmbed .col-3 .caption {
+		top: 97px;
+	}
+
+	#profileEmbed .job-details .details {
+		width: 86%
+	}
+
+	#profileEmbed .job-details h2 {
+		font-size: 30px;
+		line-height: 30px;
+	}
+
+	#profileEmbed .job-details h3 {
+		font-size: 14px;
+		line-height: 18px;
+	}
+
+	#profileEmbed .application-wrapper input[type=text],
+	#profileEmbed .application-wrapper input[type=email],
+	#profileEmbed .application-wrapper input[type=tel] {
+		width: 88%;
+	}
+
+	#profileEmbed .application-wrapper input[type=button] {
+		margin: 20px 32%;
+	}
+
+	#profileEmbed .section {
+		margin: 20px 0;
+	}
+
+	#profileEmbed .sub-video .play {
+		top: 30px;
+	}
+}
+
+label {
+	font-style: normal;
+	font-weight: 600;
+	font-size: 14px;
+	line-height: 17px;
+	color: #2B2D42;
+}
+
+.form-container {
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+}
+
+.form-column {
+    -webkit-flex: 1;
+    -ms-flex: 1;
+    flex: 1;
+    margin: 9px 5px;
+}
+
+.resume-box, .coverLetter-box{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    mix-blend-mode: normal;
+    opacity: 0.5;
+    border: 1px dashed #7A8DAE;
+    border-radius: 5px;
+    height: 106px;
+    cursor: pointer;
+	margin: 5px 0;
+}
+
+.resume-box strong {
+  
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 17px;
+    text-align: center;
+    color: #2B2D42;
+}
+
+resume-box span {
+  
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    text-align: center;
+    color: #7A8DAE;
+}
+
+#resume {
+    height: 105px;
+    mix-blend-mode: normal;
+    opacity: 0.5;
+    border: 1px dashed #7A8DAE;
+    border-radius: 5px;
+}
+
+.iti {
+    width: 100% !important;
+    margin: 5px 0;
+}
+.mce-btn {
+	background-color: #fff;
+}
+
+.mce-panel {
+    background-color: #fff;
+}
+
+.application ul li, .job-details ul li{
+	margin:0 14px;
+}
+	
+/*
+* Im removing display:flex because it messes up all unordered lists
+* Not sure why it was done in the first place.
+*/
+.application ul, .job-details ul{
+	/*display: flex;*/
+    /*list-style-type: none;*/
+    justify-content: center;
+    /*font-family: 'Inter';*/
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 21px;
+    /*color: #7A8DAE;*/
+	margin-bottom:43px;
+}
+
+#phone {
+    padding-right: 6px;
+    padding-left: 52px!important;
+    margin-left: 0;
+}
